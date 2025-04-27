@@ -2,15 +2,18 @@ project:
   type: website
 
 website:
-  title: "About me"
+  title: "Tobias Vlćek"
   search: false
   page-footer: "2025, Tobias Vlćek" 
   navbar:
     left:
-      - index.qmd
+      - href: index.qmd
+        text: About me 
 
 format:
   html:
     theme: 
-    - cosmo
+    - litera
     - styles.scss
+    include-in-header:
+    - header.html

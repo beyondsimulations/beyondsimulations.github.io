@@ -1,0 +1,47 @@
+---
+title: "Quick Introduction"
+title-slide-attributes:
+    data-background-color: "#F4E2DE"
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        transition: slide
+        transition-speed: fast
+        highlight-style: arrow
+        slide-number: true
+        code-copy: true
+        code-link: true
+        preview-links: auto
+        footer: " {{< meta title >}} | [Home](index.qmd)"
+
+execute:
+    echo: true
+
+---
+
+# [About me]{.flow} {.title}
+
+## Dr. Tobias Vlćek
+::: {.columns}
+
+:::: {.column width="30%"}
+![](https://beyondsimulations.com/wp-content/uploads/2024/12/231127_Vlcek_Tobais-9303-scaled.jpg)
+::::
+
+:::: {.column width="70%"}
+- Modelling, Simulations, AI, and LLMs
+- Programming with Julia and Python
+- Teaching all topics related to my interests
+- [tobias@beyondsimulations.com](mailto:tobias@beyondsimulations.com)
+
+:::{.callout-tip}
+I really appreciate active participation and interaction!
+:::
+
+::::
+
+:::
