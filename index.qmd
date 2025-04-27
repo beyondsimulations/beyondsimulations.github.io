@@ -7,7 +7,7 @@ about:
     - text: "{{< iconify line-md:email >}}"
       href: mailto:vlcek@beyondsimulations.com
     - text: "{{< iconify line-md:linkedin >}}"
-      href: https://www.linkedin.com/in/tobias-vlcek/
+      href: https://www.linkedin.com/in/tobiasvlcek/
     - text: "{{< iconify line-md:github >}}"
       href: https://github.com/beyondsimulations
     - text: "{{< iconify line-md:tablet-screenshot >}}"
