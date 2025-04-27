@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "About me"
+  search: false
+  page-footer: "2025, Tobias Vlćek" 
+  navbar:
+    left:
+      - index.qmd
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - styles.scss
