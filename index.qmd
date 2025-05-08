@@ -20,8 +20,12 @@ Hi there! I'm Tobias, a researcher based at the [University of Hamburg](https://
 
 ## Quick links to lectures
 
-- [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
-- [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
-- [Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
-- [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
-- [Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
+[Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
+
+[Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
+
+[Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+
+[Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
+
+[Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
