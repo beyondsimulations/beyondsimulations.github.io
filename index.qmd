@@ -1,7 +1,7 @@
 ---
 title: Tobias Vlćek
 about:
-  template: jolla
+  template: trestles
   image: https://beyondsimulations.com/wp-content/uploads/2024/12/231127_Vlcek_Tobais-9303-scaled.jpg
   links:
     - text: "{{< iconify line-md:email >}}"
@@ -14,18 +14,20 @@ about:
       href: introduction.qmd
 ---
 
+## Online Lectures
+
+- [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
+- [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
+- [Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+- [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
+- [Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
+
 ## About me
 
-Hi there! I'm Tobias, a researcher based at the [University of Hamburg](https://www.bwl.uni-hamburg.de/vw/personen/tobias-vlcek.html). My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively. Alongside my academic work, I'm the founder of [BeyondSimulations](https://beyondsimulations.com) and co-founder of [decorum SOLAR](https://www.decorum-solar.de), putting these analytical skills into practice in different ventures. I'm also increasingly interested in the potential of AI and Large Language Models, exploring their use in areas like teaching and data analysis. I enjoy digging into data, especially geo-spatial information and time series data, to find practical solutions that make a difference. It's really important to me that these solutions are not only smart but also robust and easy for people to understand and trust. I use programming tools like Julia and Python in my work and also enjoy teaching others how to use them, sharing my course materials openly online. Whether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone.
+Hi there! I'm Tobias, a researcher based at the [University of Hamburg](https://www.bwl.uni-hamburg.de/vw/personen/tobias-vlcek.html). My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.
 
-## Quick links to lectures
+Alongside my academic work, I'm the founder of [BeyondSimulations](https://beyondsimulations.com) and co-founder of [decorum SOLAR](https://www.decorum-solar.de), putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online. 
 
-[Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
+Whether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone.
 
-[Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
 
-[Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
-
-[Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
-
-[Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
