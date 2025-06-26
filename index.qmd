@@ -21,6 +21,7 @@ about:
 - [Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
 - [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
 - [Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
+- [Material Logistics (German)](https://beyondsimulations.github.io/Materiallogistik/)
 
 ## About me
 
