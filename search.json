@@ -11,20 +11,27 @@
     "href": "index.html",
     "title": "Tobias Vlćek",
     "section": "",
-    "text": "Applied Optimization\nIntroduction to Python\nProgramming: Everyday-Decision-Making Algorithms\nOptimization with Julia\nProduction Logistics (German)\nMaterial Logistics (German)"
-  },
-  {
-    "objectID": "index.html#online-lectures",
-    "href": "index.html#online-lectures",
-    "title": "Tobias Vlćek",
-    "section": "",
-    "text": "Applied Optimization\nIntroduction to Python\nProgramming: Everyday-Decision-Making Algorithms\nOptimization with Julia\nProduction Logistics (German)\nMaterial Logistics (German)"
+    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Tobias Vlćek",
-    "section": "About me",
-    "text": "About me\nHi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
+    "section": "",
+    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Online Lectures",
+    "section": "",
+    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems.\n\n\n\nApplied Optimization\nIntroduction to Python\nProgramming: Everyday-Decision-Making Algorithms\nOptimization with Julia\n\n\n\n\n\nProduction Logistics\nMaterial Logistics\n\n\nAll course materials are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes."
+  },
+  {
+    "objectID": "lectures.html#my-online-courses",
+    "href": "lectures.html#my-online-courses",
+    "title": "Online Lectures",
+    "section": "",
+    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems.\n\n\n\nApplied Optimization\nIntroduction to Python\nProgramming: Everyday-Decision-Making Algorithms\nOptimization with Julia\n\n\n\n\n\nProduction Logistics\nMaterial Logistics\n\n\nAll course materials are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes."
   }
 ]
