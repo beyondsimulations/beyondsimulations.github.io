@@ -1,0 +1,23 @@
+---
+title: "Online Lectures"
+---
+
+## My Online Courses
+
+Below you'll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems.
+
+### Programming & Optimization
+
+- [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
+- [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
+- [Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+- [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
+
+### Logistics (German)
+
+- [Production Logistics](https://beyondsimulations.github.io/Produktionswirtschaft/)
+- [Material Logistics](https://beyondsimulations.github.io/Materiallogistik/)
+
+---
+
+All course materials are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes.
