@@ -1,8 +1,8 @@
 ---
-title: "Online Lectures"
+title: "Lectures"
 ---
 
-## My Online Courses
+## Open Educational Resources
 
 Below you'll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems.
 
@@ -20,6 +20,8 @@ Below you'll find a collection of my open educational resources covering optimiz
 
 ---
 
-All course materials listed here are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes. 
+All course materials listed here are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes.
 
-**Custom Training for Organizations:** I also develop tailored training programs and workshops for companies and organizations. These specialized courses are designed to meet specific business needs and are not publicly available. [Contact me](mailto:vlcek@beyondsimulations.com) to discuss custom training opportunities.
+## Custom Training for Organizations
+
+I also develop tailored training programs and workshops for companies and organizations. These specialized courses are designed to meet specific business needs and are not publicly available. [Contact me](mailto:vlcek@beyondsimulations.com) to discuss custom training opportunities.
