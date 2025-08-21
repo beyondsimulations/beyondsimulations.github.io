@@ -9,9 +9,10 @@ Below you'll find a collection of my open educational resources covering optimiz
 ### Programming & Optimization
 
 - [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
-- [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
-- [Programming: Everyday-Decision-Making Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
 - [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
+- [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
+- [Programming: Everyday Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+- [Business Mathematics](https://beyondsimulations.github.io/Mathematics/)
 
 ### Logistics (German)
 
@@ -20,7 +21,7 @@ Below you'll find a collection of my open educational resources covering optimiz
 
 ---
 
-All course materials listed here are freely available and licensed under a CC-BY-SA license. Feel free to use them for learning, teaching, or reference purposes.
+All course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes.
 
 ## Custom Training for Organizations
 
