@@ -25,15 +25,15 @@ $presentation-title-slide-text-align: left;
 
 // Utility text classes
 .highlight {
-    color: $brand-oneDark;
+    color: $brand-threeDark;
     font-weight: bold;
 }
 .task {
-    color: $brand-twoDark;
+    color: $brand-oneDark;
     font-weight: bold;
 }
 .question {
-    color: $brand-greyer;
+    color: $brand-twoDark;
     font-weight: bold;
 }
 .light {
@@ -54,7 +54,7 @@ $presentation-title-slide-text-align: left;
 
 // Slide-specific
 .title-slide.title {
-    background-color: $brand-twoDark !important;
+    background-color: $brand-twoLight !important;
 }
 .loud-slide {
     background-color: $brand-twoDark !important;

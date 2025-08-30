@@ -6,7 +6,7 @@ color:
     twoLight: "#9BC0C0"
     threeDark: "#DB6B6B"
     threeLight: "#EBADAD"
-    codeline: "#FDF8ED"
+    codeline: "#E9EBED"
     darker: "#363D45"
     greyer: "#648090"
     lighter: "#FFFDFC"
@@ -50,9 +50,8 @@ typography:
     family: Google Sans Code
     color: twoDark
     background-color: codeline
-#3  link:
-#   color: threeDark
-#   weight: bold
+  link:
+    color: threeDark
 
 defaults:
   quarto:
