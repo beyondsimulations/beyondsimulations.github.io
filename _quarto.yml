@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme:
-      - litera
-      - styles.scss
+      - default
+      - brand
     include-in-header:
       - header.html

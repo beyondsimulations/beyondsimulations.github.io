@@ -1,21 +1,83 @@
-
 /*-- scss:defaults --*/
 
-// colors background
-$background-color: #ffffff;
+// ========================================================================
+// HTML BASE THEME VARS (applies to all HTML, including presentations)
+// ========================================================================
 
-// theme colors
-$theme-color-primary: #025259;
-$theme-color-secondary: #F29325;
-$theme-color-tertiary: #b60000;
-$theme-color-quaternary: #F4E2DE;
+// Callouts
+$callout-color-note: $brand-oneLight;
+$callout-color-tip: $brand-twoLight;
+$callout-color-warning: $brand-threeLight;
+$callout-color-important: $brand-oneDark;
+$callout-color-caution: $brand-threeDark;
 
-// fonts colors
-$font-color: #000000;
-$font-color-inverted: $background-color;
-$font-color-loud: $theme-color-secondary;
+// Code styling
+$code-block-border-left: $brand-threeLight;
 
-// colors
-$body-bg: $background-color;
-$body-color: $font-color;
-$link-color: $theme-color-tertiary;
+// ========================================================================
+// REVEAL.JS PRESENTATION VARS (override to match HTML theme)
+// ========================================================================
+$presentation-title-slide-text-align: left;
+
+// ========================================================================
+// RULES: only for custom visual effects / overrides
+// ========================================================================
+
+// Utility text classes
+.highlight {
+    color: $brand-oneDark;
+    font-weight: bold;
+}
+.task {
+    color: $brand-twoDark;
+    font-weight: bold;
+}
+.question {
+    color: $brand-greyer;
+    font-weight: bold;
+}
+.light {
+    color: $brand-oneLight;
+}
+.errors {
+    color: $brand-threeDark;
+    font-weight: bold;
+}
+
+// Inverted font block
+.invert-font {
+    color: $brand-lighter;
+    background-color: $brand-darker;
+    border: 5px solid $brand-darker;
+    border-radius: 0;
+}
+
+// Slide-specific
+.title-slide.title {
+    background-color: $brand-twoDark !important;
+}
+.loud-slide {
+    background-color: $brand-twoDark !important;
+    color: $brand-oneDark !important;
+    font-weight: bold !important;
+}
+
+// Animation effect
+.flow {
+    background-image: url("https://images.beyondsimulations.com/logo/main-web.png");
+    background-size: 3840px 2160px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: animate 60s linear infinite;
+    font-family: $presentation-heading-font;
+}
+
+@keyframes animate {
+    0% {
+        background-position: left 384px top 216px;
+    }
+    100% {
+        background-position: left 3456px top 1944px;
+    }
+}
