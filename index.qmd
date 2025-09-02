@@ -2,7 +2,7 @@
 title: Tobias Vlćek
 about:
   template: trestles
-  image: https://beyondsimulations.com/wp-content/uploads/2024/12/231127_Vlcek_Tobais-9303-scaled.jpg
+  image: https://beyondsimulations.com/wp-content/uploads/2025/09/vlcek_web.png
   image-shape: rounded
   links:
     - text: "{{< iconify line-md:email >}}"

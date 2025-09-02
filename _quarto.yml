@@ -4,13 +4,19 @@ project:
 website:
   title: "Tobias Vlćek"
   search: false
-  page-footer: "2025, Tobias Vlćek"
+  page-footer:
+    center: "2025, Tobias Vlćek"
+    right:
+      - icon: imprint
+        href: imprint.qmd
   navbar:
     left:
       - href: index.qmd
         text: About me
       - href: lectures.qmd
         text: Lectures
+      - href: research.qmd
+        text: Research
 
 format:
   html:

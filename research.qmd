@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+## Current Topics
+
+My current research primarily revolves around optimization and evaluation in transportation and logistics systems. One of my key projects involves optimizing SKU-Warehouse allocations to minimize split parcels in e-commerce environments. This research aims to enhance efficiency and reduce operational costs in warehouse management, which is crucial for improving the overall performance of e-commerce logistics.
+
+Additionally, I am engaged in evaluating on-demand line-based bus services. This study focuses on assessing the effectiveness and efficiency of flexible bus services that adapt to passenger demand in real-time, offering more sustainable and user-centric public transportation solutions.
+
+Furthermore, I am working on a computationally efficient optimization approach for real-time passenger flow balancing in urban rail transit systems. This research addresses the critical safety challenges posed by overcrowding during peak demand periods, such as large-scale events. By developing a linear formulation that models the transit network as a flow system with time-dependent capacities, we aim to provide a practical framework for transportation planners to prevent dangerous overcrowding while maximizing system utilization.
+
+These projects collectively aim to contribute to the advancement of transportation and logistics systems, making them more efficient, safe, and adaptable to modern demands.
+
+## Publications
+
+- Vlćek, T., & Voigt, G. (2025). Optimizing SKU-Warehouse Allocations to minimize Split Parcels in E-Commerce Environments. Working Paper. [Github Repo](https://github.com/beyondsimulations/splitdeliveries)
+
+- Schulz, A., & Vlćek, T. (2025). Evaluation of on-demand line-based bus services. Working Paper. [Github Repo](https://github.com/beyondsimulations/On-Demand-Line-Based-Bus-Services)
+
+- Vlćek, T., Haase, K., Koch, M., Dolz, L., Weygandt, A., & Pape, J. (2025). Real-Time Passenger Flow Balancing for Urban Rail Transit: A Computationally Efficient Optimization Approach for Peak Demand Management. SSRN. [https://dx.doi.org/10.2139/ssrn.5225835](https://dx.doi.org/10.2139/ssrn.5225835). [Github Repo](https://github.com/beyondsimulations/Metro-Inflow-Optimization)
+
+- Vlćek, T., Haase, K., Fliedner, M., & Cors, T. (2024). Police service district planning. OR Spectrum. [https://doi.org/10.1007/s00291-024-00745-3](https://doi.org/10.1007/s00291-024-00745-3). [Github Repo](https://github.com/beyondsimulations/emergencyservices)
+
+- Cors, T., Fliedner, M., Haase, K., & Vlćek, T. (2024). Simulative assessment of patrol car allocation and response time. European Journal of Operational Research, S0377221724009779. [https://doi.org/10.1016/j.ejor.2024.12.035](https://doi.org/10.1016/j.ejor.2024.12.035)
+
+- Bonz, J., Craze, B., Haase, K., Halligan, M., Koch, M., & Vlćek, T. (2024). Controlling the Transport Demand of the FIFA World Cup 2022 in Qatar. SSRN. [https://doi.org/10.2139/ssrn.4740208](https://doi.org/10.2139/ssrn.4740208)
+
+- Vlćek, T. (2023). The Sales Force Deployment Problem for Teams of Sales Representatives Within Sales Territories. In O. Grothe, S. Nickel, S. Rebennack, & O. Stein (Eds.), Operations Research Proceedings 2022 (pp. 121–127). Springer International Publishing. [https://doi.org/10.1007/978-3-031-24907-5_15](https://doi.org/10.1007/978-3-031-24907-5_15). [Github Repo](https://github.com/beyondsimulations/salesforce)
+
+
+- Cors, T., Vlćek, T., Voß, S., & Jovanovic, R. (2023). Fixed Set Search Applied to the Territory Design Problem. In L. Di Gaspero, P. Festa, A. Nakib, & M. Pavone (Eds.), Metaheuristics (Vol. 13838, pp. 322–334). Springer International Publishing. [https://doi.org/10.1007/978-3-031-26504-4_23](https://doi.org/10.1007/978-3-031-26504-4_23)

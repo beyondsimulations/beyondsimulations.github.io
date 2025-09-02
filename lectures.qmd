@@ -6,7 +6,7 @@ title: "Lectures"
 
 Below you'll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems.
 
-### Programming & Optimization
+## Programming & Optimization
 
 - [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
 - [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
@@ -14,7 +14,7 @@ Below you'll find a collection of my open educational resources covering optimiz
 - [Programming: Everyday Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
 - [Business Mathematics](https://beyondsimulations.github.io/Mathematics/)
 
-### Logistics (German)
+## Logistics (German)
 
 - [Production Logistics](https://beyondsimulations.github.io/Produktionswirtschaft/)
 - [Material Logistics](https://beyondsimulations.github.io/Materiallogistik/)

@@ -27,11 +27,15 @@ execute:
 ## Dr. Tobias Vlćek
 ::: {.columns}
 
-:::: {.column width="30%"}
-![](https://beyondsimulations.com/wp-content/uploads/2024/12/231127_Vlcek_Tobais-9303-scaled.jpg)
+:::: {.column width="35%"}
+![](https://beyondsimulations.com/wp-content/uploads/2025/09/20250820-Tobias-Vlcek-Original-1-1.png)
 ::::
 
-:::: {.column width="70%"}
+:::: {.column width="5%"}
+
+::::
+
+:::: {.column width="60%"}
 - Modelling, Simulations, AI, and LLMs
 - Programming with Julia and Python
 - Teaching about the above topics
