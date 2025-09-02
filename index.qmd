@@ -11,8 +11,6 @@ about:
       href: https://www.linkedin.com/in/tobiasvlcek/
     - text: "{{< iconify line-md:github >}}"
       href: https://github.com/beyondsimulations
-    - text: "{{< iconify line-md:tablet-screenshot >}}"
-      href: introduction.qmd
 ---
 
 ## About me
