@@ -1,45 +1,38 @@
 [
   {
-    "objectID": "introduction.html#dr.-tobias-vlćek",
-    "href": "introduction.html#dr.-tobias-vlćek",
-    "title": "Quick Introduction",
-    "section": "Dr. Tobias Vlćek",
-    "text": "Dr. Tobias Vlćek\n\n\n\n\n\n\n\nModelling, Simulations, AI, and LLMs\nProgramming with Julia and Python\nTeaching about the above topics\nvlcek@beyondsimulations.com\n\n\n\n\n\n\n\nTip\n\n\nI really appreciate active participation and interaction!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tobias Vlćek",
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
     "section": "",
-    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
+    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Tobias Vlćek",
+    "objectID": "lectures.html#open-educational-resources",
+    "href": "lectures.html#open-educational-resources",
+    "title": "Lectures",
     "section": "",
-    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
+    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My current research primarily revolves around optimization and evaluation in transportation and logistics systems. One of my key projects involves optimizing SKU-Warehouse allocations to minimize split parcels in e-commerce environments. This research aims to enhance efficiency and reduce operational costs in warehouse management, which is crucial for improving the overall performance of e-commerce logistics.\nAdditionally, I am engaged in evaluating on-demand line-based bus services. This study focuses on assessing the effectiveness and efficiency of flexible bus services that adapt to passenger demand in real-time, offering more sustainable and user-centric public transportation solutions.\nFurthermore, I am working on a computationally efficient optimization approach for real-time passenger flow balancing in urban rail transit systems. This research addresses the critical safety challenges posed by overcrowding during peak demand periods, such as large-scale events. By developing a linear formulation that models the transit network as a flow system with time-dependent capacities, we aim to provide a practical framework for transportation planners to prevent dangerous overcrowding while maximizing system utilization.\nThese projects collectively aim to contribute to the advancement of transportation and logistics systems, making them more efficient, safe, and adaptable to modern demands."
+    "objectID": "lectures.html#programming-optimization",
+    "href": "lectures.html#programming-optimization",
+    "title": "Lectures",
+    "section": "Programming & Optimization",
+    "text": "Programming & Optimization\n\nApplied Optimization\nOptimization with Julia\nIntroduction to Python\nProgramming: Everyday Algorithms\nBusiness Mathematics"
   },
   {
-    "objectID": "research.html#current-topics",
-    "href": "research.html#current-topics",
-    "title": "Research",
-    "section": "",
-    "text": "My current research primarily revolves around optimization and evaluation in transportation and logistics systems. One of my key projects involves optimizing SKU-Warehouse allocations to minimize split parcels in e-commerce environments. This research aims to enhance efficiency and reduce operational costs in warehouse management, which is crucial for improving the overall performance of e-commerce logistics.\nAdditionally, I am engaged in evaluating on-demand line-based bus services. This study focuses on assessing the effectiveness and efficiency of flexible bus services that adapt to passenger demand in real-time, offering more sustainable and user-centric public transportation solutions.\nFurthermore, I am working on a computationally efficient optimization approach for real-time passenger flow balancing in urban rail transit systems. This research addresses the critical safety challenges posed by overcrowding during peak demand periods, such as large-scale events. By developing a linear formulation that models the transit network as a flow system with time-dependent capacities, we aim to provide a practical framework for transportation planners to prevent dangerous overcrowding while maximizing system utilization.\nThese projects collectively aim to contribute to the advancement of transportation and logistics systems, making them more efficient, safe, and adaptable to modern demands."
+    "objectID": "lectures.html#logistics-german",
+    "href": "lectures.html#logistics-german",
+    "title": "Lectures",
+    "section": "Logistics (German)",
+    "text": "Logistics (German)\n\nProduction Logistics\nMaterial Logistics\n\n\nAll course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes."
   },
   {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\nVlćek, T., & Voigt, G. (2025). Optimizing SKU-Warehouse Allocations to minimize Split Parcels in E-Commerce Environments. Working Paper. Github Repo\nSchulz, A., & Vlćek, T. (2025). Evaluation of on-demand line-based bus services. Working Paper. Github Repo\nVlćek, T., Haase, K., Koch, M., Dolz, L., Weygandt, A., & Pape, J. (2025). Real-Time Passenger Flow Balancing for Urban Rail Transit: A Computationally Efficient Optimization Approach for Peak Demand Management. SSRN. https://dx.doi.org/10.2139/ssrn.5225835. Github Repo\nVlćek, T., Haase, K., Fliedner, M., & Cors, T. (2024). Police service district planning. OR Spectrum. https://doi.org/10.1007/s00291-024-00745-3. Github Repo\nCors, T., Fliedner, M., Haase, K., & Vlćek, T. (2024). Simulative assessment of patrol car allocation and response time. European Journal of Operational Research, S0377221724009779. https://doi.org/10.1016/j.ejor.2024.12.035\nBonz, J., Craze, B., Haase, K., Halligan, M., Koch, M., & Vlćek, T. (2024). Controlling the Transport Demand of the FIFA World Cup 2022 in Qatar. SSRN. https://doi.org/10.2139/ssrn.4740208\nVlćek, T. (2023). The Sales Force Deployment Problem for Teams of Sales Representatives Within Sales Territories. In O. Grothe, S. Nickel, S. Rebennack, & O. Stein (Eds.), Operations Research Proceedings 2022 (pp. 121–127). Springer International Publishing. https://doi.org/10.1007/978-3-031-24907-5_15. Github Repo\nCors, T., Vlćek, T., Voß, S., & Jovanovic, R. (2023). Fixed Set Search Applied to the Territory Design Problem. In L. Di Gaspero, P. Festa, A. Nakib, & M. Pavone (Eds.), Metaheuristics (Vol. 13838, pp. 322–334). Springer International Publishing. https://doi.org/10.1007/978-3-031-26504-4_23"
+    "objectID": "lectures.html#custom-training-for-organizations",
+    "href": "lectures.html#custom-training-for-organizations",
+    "title": "Lectures",
+    "section": "Custom Training for Organizations",
+    "text": "Custom Training for Organizations\nI also develop tailored training programs and workshops for companies and organizations. These specialized courses are designed to meet specific business needs and are not publicly available.\nContact me to discuss custom training opportunities."
   },
   {
     "objectID": "imprint.html",
@@ -91,38 +84,38 @@
     "text": "Images of Tobias Vlćek\nThe images of Tobias Vlćek have been taken by Mirjam Kilter."
   },
   {
-    "objectID": "lectures.html",
-    "href": "lectures.html",
-    "title": "Lectures",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems."
+    "text": "My current research primarily revolves around optimization and evaluation in transportation and logistics systems. One of my key projects involves optimizing SKU-Warehouse allocations to minimize split parcels in e-commerce environments. This research aims to enhance efficiency and reduce operational costs in warehouse management, which is crucial for improving the overall performance of e-commerce logistics.\nAdditionally, I am engaged in evaluating on-demand line-based bus services. This study focuses on assessing the effectiveness and efficiency of flexible bus services that adapt to passenger demand in real-time, offering more sustainable and user-centric public transportation solutions.\nFurthermore, I am working on a computationally efficient optimization approach for real-time passenger flow balancing in urban rail transit systems. This research addresses the critical safety challenges posed by overcrowding during peak demand periods, such as large-scale events. By developing a linear formulation that models the transit network as a flow system with time-dependent capacities, we aim to provide a practical framework for transportation planners to prevent dangerous overcrowding while maximizing system utilization.\nThese projects collectively aim to contribute to the advancement of transportation and logistics systems, making them more efficient, safe, and adaptable to modern demands."
   },
   {
-    "objectID": "lectures.html#open-educational-resources",
-    "href": "lectures.html#open-educational-resources",
-    "title": "Lectures",
+    "objectID": "research.html#current-topics",
+    "href": "research.html#current-topics",
+    "title": "Research",
     "section": "",
-    "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems."
+    "text": "My current research primarily revolves around optimization and evaluation in transportation and logistics systems. One of my key projects involves optimizing SKU-Warehouse allocations to minimize split parcels in e-commerce environments. This research aims to enhance efficiency and reduce operational costs in warehouse management, which is crucial for improving the overall performance of e-commerce logistics.\nAdditionally, I am engaged in evaluating on-demand line-based bus services. This study focuses on assessing the effectiveness and efficiency of flexible bus services that adapt to passenger demand in real-time, offering more sustainable and user-centric public transportation solutions.\nFurthermore, I am working on a computationally efficient optimization approach for real-time passenger flow balancing in urban rail transit systems. This research addresses the critical safety challenges posed by overcrowding during peak demand periods, such as large-scale events. By developing a linear formulation that models the transit network as a flow system with time-dependent capacities, we aim to provide a practical framework for transportation planners to prevent dangerous overcrowding while maximizing system utilization.\nThese projects collectively aim to contribute to the advancement of transportation and logistics systems, making them more efficient, safe, and adaptable to modern demands."
   },
   {
-    "objectID": "lectures.html#programming-optimization",
-    "href": "lectures.html#programming-optimization",
-    "title": "Lectures",
-    "section": "Programming & Optimization",
-    "text": "Programming & Optimization\n\nApplied Optimization\nOptimization with Julia\nIntroduction to Python\nProgramming: Everyday Algorithms\nBusiness Mathematics"
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nVlćek, T., & Voigt, G. (2025). Optimizing SKU-Warehouse Allocations to minimize Split Parcels in E-Commerce Environments. Working Paper. Github Repo\nSchulz, A., & Vlćek, T. (2025). Evaluation of on-demand line-based bus services. Working Paper. Github Repo\nVlćek, T., Haase, K., Koch, M., Dolz, L., Weygandt, A., & Pape, J. (2025). Real-Time Passenger Flow Balancing for Urban Rail Transit: A Computationally Efficient Optimization Approach for Peak Demand Management. SSRN. https://dx.doi.org/10.2139/ssrn.5225835. Github Repo\nVlćek, T., Haase, K., Fliedner, M., & Cors, T. (2024). Police service district planning. OR Spectrum. https://doi.org/10.1007/s00291-024-00745-3. Github Repo\nCors, T., Fliedner, M., Haase, K., & Vlćek, T. (2024). Simulative assessment of patrol car allocation and response time. European Journal of Operational Research, S0377221724009779. https://doi.org/10.1016/j.ejor.2024.12.035\nBonz, J., Craze, B., Haase, K., Halligan, M., Koch, M., & Vlćek, T. (2024). Controlling the Transport Demand of the FIFA World Cup 2022 in Qatar. SSRN. https://doi.org/10.2139/ssrn.4740208\nVlćek, T. (2023). The Sales Force Deployment Problem for Teams of Sales Representatives Within Sales Territories. In O. Grothe, S. Nickel, S. Rebennack, & O. Stein (Eds.), Operations Research Proceedings 2022 (pp. 121–127). Springer International Publishing. https://doi.org/10.1007/978-3-031-24907-5_15. Github Repo\nCors, T., Vlćek, T., Voß, S., & Jovanovic, R. (2023). Fixed Set Search Applied to the Territory Design Problem. In L. Di Gaspero, P. Festa, A. Nakib, & M. Pavone (Eds.), Metaheuristics (Vol. 13838, pp. 322–334). Springer International Publishing. https://doi.org/10.1007/978-3-031-26504-4_23"
   },
   {
-    "objectID": "lectures.html#logistics-german",
-    "href": "lectures.html#logistics-german",
-    "title": "Lectures",
-    "section": "Logistics (German)",
-    "text": "Logistics (German)\n\nProduction Logistics\nMaterial Logistics\n\n\nAll course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tobias Vlćek",
+    "section": "",
+    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
   },
   {
-    "objectID": "lectures.html#custom-training-for-organizations",
-    "href": "lectures.html#custom-training-for-organizations",
-    "title": "Lectures",
-    "section": "Custom Training for Organizations",
-    "text": "Custom Training for Organizations\nI also develop tailored training programs and workshops for companies and organizations. These specialized courses are designed to meet specific business needs and are not publicly available.\nContact me to discuss custom training opportunities."
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tobias Vlćek",
+    "section": "",
+    "text": "Hi there! I’m Tobias, a researcher based at the University of Hamburg. My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.\nAlongside my academic work, I’m the founder of BeyondSimulations and co-founder of decorum SOLAR, putting these analytical skills into practice in different ventures. I use programming tools like Julia and Python in my work and also enjoy teaching, sharing my course materials openly online.\nWhether through research, my entrepreneurial work or teaching, my aim is to bridge the gap between academic methods and practical application, helping create better systems for everyone."
   }
 ]

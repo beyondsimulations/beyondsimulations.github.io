@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://beyondsimulations.github.io/introduction.html</loc>
-    <lastmod>2025-09-02T09:10:56.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beyondsimulations.github.io/index.html</loc>
-    <lastmod>2025-09-02T08:22:20.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beyondsimulations.github.io/research.html</loc>
-    <lastmod>2025-09-02T09:24:21.972Z</lastmod>
+    <loc>https://beyondsimulations.github.io/lectures.html</loc>
+    <lastmod>2025-09-02T08:12:32.808Z</lastmod>
   </url>
   <url>
     <loc>https://beyondsimulations.github.io/imprint.html</loc>
     <lastmod>2025-09-02T08:17:39.751Z</lastmod>
   </url>
   <url>
-    <loc>https://beyondsimulations.github.io/lectures.html</loc>
-    <lastmod>2025-09-02T08:12:32.808Z</lastmod>
+    <loc>https://beyondsimulations.github.io/research.html</loc>
+    <lastmod>2025-09-02T09:24:21.972Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beyondsimulations.github.io/index.html</loc>
+    <lastmod>2025-09-02T09:29:32.830Z</lastmod>
   </url>
 </urlset>
