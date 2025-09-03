@@ -9,15 +9,18 @@ Below you'll find a collection of my open educational resources covering optimiz
 ## Programming & Optimization
 
 - [Applied Optimization](https://beyondsimulations.github.io/Applied-Optimization/)
-- [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
 - [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
+- [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
 - [Programming: Everyday Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+
+## Logistics
+
+- [Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
+- [Material Logistics (German)](https://beyondsimulations.github.io/Materiallogistik/)
+
+## Mathematics
+
 - [Business Mathematics](https://beyondsimulations.github.io/Mathematics/)
-
-## Logistics (German)
-
-- [Production Logistics](https://beyondsimulations.github.io/Produktionswirtschaft/)
-- [Material Logistics](https://beyondsimulations.github.io/Materiallogistik/)
 
 ---
 
