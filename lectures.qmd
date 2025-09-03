@@ -22,8 +22,6 @@ Below you'll find a collection of my open educational resources covering optimiz
 
 - [Business Mathematics](https://beyondsimulations.github.io/Mathematics/)
 
----
-
 All course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes.
 
 ## Custom Training for Organizations

@@ -1,7 +1,7 @@
 ---
 title: Tobias Vlćek
 about:
-  template: trestles
+  template: jolla
   image: https://beyondsimulations.com/wp-content/uploads/2025/09/20250820-Tobias-Vlcek-Original-5-2.png
   image-shape: round
   links:
@@ -12,8 +12,6 @@ about:
     - text: "{{< iconify line-md:github >}}"
       href: https://github.com/beyondsimulations
 ---
-
-## About me
 
 Hi there! I'm Tobias, a researcher based at the [University of Hamburg](https://www.bwl.uni-hamburg.de/vw/personen/tobias-vlcek.html). My passion lies in using quantitative tools like applied optimization and simulation to tackle real-world problems – think improving public transport during major events or helping police plan their service areas more effectively.
 
