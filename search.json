@@ -18,14 +18,21 @@
     "href": "lectures.html#programming-optimization",
     "title": "Lectures",
     "section": "Programming & Optimization",
-    "text": "Programming & Optimization\n\nApplied Optimization\nOptimization with Julia\nIntroduction to Python\nProgramming: Everyday Algorithms\nBusiness Mathematics"
+    "text": "Programming & Optimization\n\nApplied Optimization\nIntroduction to Python\nOptimization with Julia\nProgramming: Everyday Algorithms"
   },
   {
-    "objectID": "lectures.html#logistics-german",
-    "href": "lectures.html#logistics-german",
+    "objectID": "lectures.html#logistics",
+    "href": "lectures.html#logistics",
     "title": "Lectures",
-    "section": "Logistics (German)",
-    "text": "Logistics (German)\n\nProduction Logistics\nMaterial Logistics\n\n\nAll course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes."
+    "section": "Logistics",
+    "text": "Logistics\n\nProduction Logistics (German)\nMaterial Logistics (German)"
+  },
+  {
+    "objectID": "lectures.html#mathematics",
+    "href": "lectures.html#mathematics",
+    "title": "Lectures",
+    "section": "Mathematics",
+    "text": "Mathematics\n\nBusiness Mathematics\n\n\nAll course materials listed here are freely available and licensed under either a CC-BY-SA or CC-BY-NC-SA license. Feel free to use them for learning, teaching, or reference purposes."
   },
   {
     "objectID": "lectures.html#custom-training-for-organizations",
