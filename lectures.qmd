@@ -16,7 +16,7 @@ Below you'll find a collection of my open educational resources covering optimiz
 ## Logistics
 
 - [Production Logistics (German)](https://beyondsimulations.github.io/Produktionswirtschaft/)
-- [Produktion Management (German)](https://beyondsimulations.github.io/Produktionsmanagement/)
+- [Production Management (German)](https://beyondsimulations.github.io/Produktionsmanagement/)
 - [Material Logistics (German)](https://beyondsimulations.github.io/Materiallogistik/)
 
 ## Mathematics
