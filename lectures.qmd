@@ -12,6 +12,7 @@ Below you'll find a collection of my open educational resources covering optimiz
 - [Introduction to Python](https://beyondsimulations.github.io/Introduction-to-Python/)
 - [Optimization with Julia](https://beyondsimulations.github.io/Optimization-with-Julia/)
 - [Programming: Everyday Algorithms](https://beyondsimulations.github.io/Programming-Everyday-Decisions/)
+- [Management Science](https://beyondsimulations.github.io/Management-Science)
 
 ## Logistics
 
