@@ -14,11 +14,18 @@
     "text": "Below you’ll find a collection of my open educational resources covering optimization, programming, and logistics. These courses combine theoretical foundations with practical applications, designed to help students and professionals apply quantitative methods to real-world problems."
   },
   {
-    "objectID": "lectures.html#programming-optimization",
-    "href": "lectures.html#programming-optimization",
+    "objectID": "lectures.html#programming",
+    "href": "lectures.html#programming",
     "title": "Lectures",
-    "section": "Programming & Optimization",
-    "text": "Programming & Optimization\n\nApplied Optimization\nIntroduction to Python\nOptimization with Julia\nProgramming: Everyday Algorithms\nManagement Science"
+    "section": "Programming",
+    "text": "Programming\n\nIntroduction to Python\nProgramming: Everyday Algorithms"
+  },
+  {
+    "objectID": "lectures.html#optimization",
+    "href": "lectures.html#optimization",
+    "title": "Lectures",
+    "section": "Optimization",
+    "text": "Optimization\n\nApplied Optimization\nOptimization with Julia\nManagement Science"
   },
   {
     "objectID": "lectures.html#logistics",
